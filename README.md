@@ -1,0 +1,1 @@
+The aim of this project is to set the foundations to perfom a scRNAseq analysis on hematopoietic stem and progenitor cells reproducing the work done by [Aincibiru M et al](https://pubmed.ncbi.nlm.nih.gov/36629404/) using the nf-core/scrnaseq pipeline on an HPC cluster. 
